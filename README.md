@@ -91,14 +91,14 @@ Pentru a vizualiza logica și a rula simularea sistemului de control al liftului
 Mai jos sunt câteva capturi de ecran din mediul LOGO! Soft Comfort, ilustrând logica de control și simularea sistemului.
 
 **Diagrama logică principală:**
-![Diagrama logică principală](assets/logica_control_lift.png)
+![lift oprit](https://github.com/user-attachments/assets/68923ecb-95b4-4de4-b9eb-69e8583a033a)
 
 **Exemplu de simulare (Liftul ajunge la Parter și deschide ușa):**
-![Simulare lift ajuns la etaj](assets/simulare_lift_rulare.png)
+![parter_usadeschisa](https://github.com/user-attachments/assets/6a9cea4c-667d-4460-b0f1-27e5fd88d66e)
 
 ---
 
-##Realizat de
+## Realizat de
 
 Proiect realizat de [bogdanch7](https://github.com/bogdanch7)
 
@@ -106,6 +106,6 @@ An universitar 2024–2025
 
 ---
 
-##Licență
+## Licență
 
 Acest proiect este creat pentru uz educațional.
