@@ -81,7 +81,7 @@ Pentru a vizualiza logica și a rula simularea sistemului de control al liftului
 
 1.  **Descărcați fișierele**: Clonați repository-ul sau descărcați toate fișierele proiectului într-un director local.
 2.  **Instalați LOGO! Soft Comfort**: Asigurați-vă că aveți instalat mediul de programare și simulare LOGO! Soft Comfort (versiunea V8 sau compatibilă) pe computerul dumneavoastră.
-3.  **Deschideți proiectul**: Deschideți fișierul de proiect LOGO! (ex: `[NumeProiectLift].lsc`) direct din LOGO! Soft Comfort.
+3.  **Deschideți proiectul**: Deschideți fișierul de proiect LOGO! (ex: "proiectfinal_lift.lsc") direct din LOGO! Soft Comfort.
 4.  **Rulați simularea**: Utilizați funcționalitățile de simulare din LOGO! Soft Comfort (iconița cu ochelari) pentru a testa comportamentul sistemului. Puteți activa intrările (butoanele de apel `I3`, `I4`, senzorii `I1`, `I2`) și observa răspunsul ieșirilor (motoare, LED-uri, uși).
 
 ---
